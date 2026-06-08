@@ -1,0 +1,86 @@
+[
+  {
+    "id": "e43638ce-6aa0-4b85-b27f-e1d07b678c50",
+    "image": "https://images.unsplash.com/photo-1582966772680-860e372bb558?w=300&auto=format&fit=crop",
+    "name": "Black and Gray Athletic Cotton Socks - 6 Pairs",
+    "priceCents": 1090,
+    "keywords": ["socks", "sports", "apparel", "clothing"]
+  },
+  {
+    "id": "15b6fc6f-327a-4ec4-896f-486349e85a3d",
+    "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=300&auto=format&fit=crop",
+    "name": "Intermediate Size Basketball",
+    "priceCents": 2095,
+    "keywords": ["sports", "basketball", "ball", "gear"]
+  },
+  {
+    "id": "83d4ca15-0f35-49f5-b749-1e1c3404db48",
+    "image": "https://images.unsplash.com/photo-1616627561950-9f746e330187?w=300&auto=format&fit=crop",
+    "name": "Luxury Towel Set - 6-Piece, Navy Blue",
+    "priceCents": 3599,
+    "keywords": ["bathroom", "towels", "home", "luxury"]
+  },
+  {
+    "id": "dd7372f9-5d30-47c4-9a54-72c3c5ed4f2a",
+    "image": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=300&auto=format&fit=crop",
+    "name": "2-Slice Toaster - Black",
+    "priceCents": 1899,
+    "keywords": ["appliances", "kitchen", "toaster", "cooking"]
+  },
+  {
+    "id": "77919bbe-0e56-4314-b784-7bc8368a62f2",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=300&auto=format&fit=crop",
+    "name": "Luxury Stainless Steel Thermos Flask - 1000ml",
+    "priceCents": 2850,
+    "keywords": ["kitchen", "thermos", "flask", "water", "bottle", "coffee"]
+  },
+  {
+    "id": "54e0eccd-8f36-462b-b68a-8182611d9d4f",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=300&auto=format&fit=crop",
+    "name": "cristal Plated Ball Stud Earrings",
+    "priceCents": 1220,
+    "keywords": ["jewelry", "accessories", "earrings", "gold", "women"]
+  },
+  {
+    "id": "3ebe75dc-64d2-4137-8860-1f5a963e173b",
+    "image": "https://images.unsplash.com/photo-1577140917170-285929fb55b7?w=500&auto=format&fit=crop",
+    "name": "6-Piece White Dinner Plate Set",
+    "priceCents": 2590,
+    "keywords": ["kitchen", "plates", "dinner", "dining", "home"]
+  },
+  {
+    "id": "8c9c4bc3-0d04-45f7-a28c-54a1d7f429bc",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=500&auto=format&fit=crop",
+    "name": "12-Cup Programmable Coffeemaker",
+    "priceCents": 4299,
+    "keywords": ["kitchen", "coffeemaker", "coffee", "appliances"]
+  },
+  {
+    "id": "bc2847e9-7323-45f6-874c-f1c7561d4093",
+    "image": "https://images.unsplash.com/photo-1578643463396-0997cb5328c1?w=300&auto=format&fit=crop",
+    "name": "Countertop Blender - 1200W Professional",
+    "priceCents": 7999,
+    "keywords": ["kitchen", "blender", "appliances", "smoothie"]
+  },
+  {
+    "id": "02e3a47e-dd14-4b7d-8f7d-0c1592314545",
+    "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=300&auto=format&fit=crop",
+    "name": "Men's Regular-Fit Quick-Dry Golf Polo Shirt",
+    "priceCents": 1590,
+    "keywords": ["apparel", "clothing", "polo", "shirt", "men", "golf"]
+  },
+  {
+    "id": "6b07d4e7-f530-4c4b-a7d1-bf0fa1c47123",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=300&auto=format&fit=crop",
+    "name": "Waterproof Outdoor Sports Smartwatch",
+    "priceCents": 4999,
+    "keywords": ["electronics", "watch", "smartwatch", "fitness", "tracker"]
+  },
+  {
+    "id": "19c6a64a-54e7-44a1-b6a1-bf0fa1c47234",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&auto=format&fit=crop",
+    "name": "Wireless Noise Cancelling Headphones",
+    "priceCents": 9950,
+    "keywords": ["electronics", "headphones", "audio", "wireless", "bluetooth"]
+  }
+]
